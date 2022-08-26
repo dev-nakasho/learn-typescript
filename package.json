@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dev-nakasho/learn-typescript/issues"
   },
-  "homepage": "https://github.com/dev-nakasho/learn-typescript#readme"
+  "homepage": "https://github.com/dev-nakasho/learn-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
 }
